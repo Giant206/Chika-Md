@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @Giant
+› Base Ori @Arie
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
